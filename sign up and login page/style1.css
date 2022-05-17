@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#outlet{
+    background-color: rgb(227, 226, 266);
+    border:  5px solid;
+    border-radius: 5px;
+}
+html{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.head1{
+    text-align: center;
+}
+label{
+    font-size: 16px;
+    font-weight: bold;
+}
+#inname, #inpass1, #inpass{
+    color: red;
+}
+button{
+    font-weight: bold;
+} 
+#outlet2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
